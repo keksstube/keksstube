@@ -3,5 +3,41 @@ body {
 }
 
 h1 {
-  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  margin: 0 auto;
+  width: 50%;
+}
+
+a {
+  display: inline-block;
+  padding: 0.5em 1em;
+  background-color: #444;
+  color: #fff;
+  display: inline-block;
+  text-align: center;
+}
+
+header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin: 0 auto;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+ul {
+  display: flex;
+  padding: 0.5em 1em;
+  justify-content: space-around;
+  align-items: center;
+  width: 50%;
 }
