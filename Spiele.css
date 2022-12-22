@@ -467,13 +467,5 @@
     min-height: 422px;
   }
 }.u-section-5 .u-sheet-1 {
-  min-height: 400px;
-}
-
-.u-block-7b89-4 {
-  height: 64px;
-  width: 64px;
-  background-image: none;
-  margin: 107px auto 60px 20px;
-  padding: 15px;
+  min-height: 10px;
 }
