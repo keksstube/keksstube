@@ -23973,7 +23973,7 @@ a.u-button-style.u-border-20 {
 }
 
 .u-header .u-sheet-1 {
-  min-height: 69px;
+  min-height: 101px;
 }
 
 .u-header .u-social-icons-1 {
@@ -23982,7 +23982,7 @@ a.u-button-style.u-border-20 {
   min-height: 16px;
   width: 116px;
   min-width: 68px;
-  margin: 19px 0 0 auto;
+  margin: 34px 0 0 auto;
 }
 
 .u-header .u-icon-1 {
@@ -23998,20 +23998,16 @@ a.u-button-style.u-border-20 {
 }
 
 .u-header .u-text-1 {
-  margin: -26px 974px 19px 0;
+  margin: -26px 887px 35px 53px;
 }
-.u-header .u-image-1 {
-  background-image: url("images/ge621eb248bcde713f410e741244cbe720e73ab6615554afda9f7ef33858187f9b71fc8dac4fbe409df9ce66f7ea1682ceb89a9fbf6577a9d01a61a1fce8e38b1_1280.png");
-}
-
 .u-header .u-sheet-2 {
-  min-height: 871px;
+  min-height: 125px;
 }
 
-.u-header .u-image-2 {
-  width: 167px;
-  height: 83px;
-  margin: 50px auto 0 0;
+.u-header .u-image-1 {
+  width: 202px;
+  height: 101px;
+  margin: 12px auto 0 48px;
 }
 
 .u-header .u-logo-image-1 {
@@ -24019,14 +24015,22 @@ a.u-button-style.u-border-20 {
   height: 100%;
 }
 
+.u-header .u-search-1 {
+  width: 200px;
+  min-height: 38px;
+  height: auto;
+  margin: -75px -54px 0 auto;
+}
+
 .u-header .u-menu-1 {
-  margin: -60px auto 0;
+  margin: -38px 336px 51px auto;
 }
 
 .u-header .u-nav-1 {
   font-weight: 700;
   font-size: 1rem;
   text-transform: none;
+  letter-spacing: normal;
 }
 
 .u-header .u-nav-2 {
@@ -24035,104 +24039,67 @@ a.u-button-style.u-border-20 {
   font-weight: 700;
   text-transform: none;
 }
-
-.u-header .u-search-1 {
-  width: 200px;
-  min-height: 38px;
-  height: auto;
-  margin: -37px 127px 60px auto;
-}
-.u-header .u-sheet-3 {
-  min-height: 10px;
-}
 @media (max-width: 1199px) {
-  .u-header .u-social-icons-1 {
-    margin-top: 34px;
-  }
-
   .u-header .u-text-1 {
-    margin-top: -28px;
-    margin-right: 774px;
-    margin-bottom: 37px;
+    margin-top: -26px;
+    margin-right: 739px;
+    margin-left: 0;
   }
 }
 @media (max-width: 1199px) {
-  .u-header .u-sheet-2 {
-    min-height: 718px;
+  .u-header .u-image-1 {
+    width: 202px;
   }
 
-  .u-header .u-image-2 {
-    width: 167px;
-  }
-
-  .u-header .u-logo-image-1 {
-    max-width: 80px;
-    max-height: 80px;
+  .u-header .u-search-1 {
+    margin-top: -75px;
   }
 
   .u-header .u-menu-1 {
-    margin-top: -60px;
+    margin-right: 336px;
   }
 }
-
 @media (max-width: 991px) {
-  .u-header .u-sheet-1 {
-    min-height: 67px;
+  .u-header .u-text-1 {
+    margin-right: 519px;
   }
-
-  .u-header .u-social-icons-1 {
-    margin-top: 18px;
+}
+@media (max-width: 991px) {
+  .u-header .u-menu-1 {
+    margin-right: 257px;
   }
-
+}
+@media (max-width: 767px) {
   .u-header .u-text-1 {
     width: auto;
-    margin-top: -29px;
-    margin-right: 554px;
-    margin-bottom: 21px;
-  }
-}
-@media (max-width: 991px) {
-  .u-header .u-sheet-2 {
-    min-height: 550px;
-  }
-}
-
-@media (max-width: 767px) {
-  .u-header .u-sheet-1 {
-    min-height: 102px;
-  }
-
-  .u-header .u-text-1 {
     margin-right: 233px;
     margin-bottom: 38px;
   }
 }
 @media (max-width: 767px) {
-  .u-header .u-sheet-2 {
-    min-height: 413px;
+  .u-header .u-menu-1 {
+    margin-right: 193px;
   }
 }
-
 @media (max-width: 575px) {
   .u-header .u-sheet-1 {
-    min-height: 132px;
+    min-height: 131px;
   }
 
   .u-header .u-social-icons-1 {
-    margin-top: 46px;
+    margin-top: 27px;
     margin-right: auto;
   }
 
   .u-header .u-text-1 {
-    margin: 20px 17px 8px;
+    margin: 20px 17px 27px;
   }
 }
 @media (max-width: 575px) {
-  .u-header .u-sheet-2 {
-    min-height: 260px;
+  .u-header .u-menu-1 {
+    margin-right: 122px;
   }
 }
-
 .u-footer .u-sheet-1 {
   min-height: 325px;
 }
@@ -24140,7 +24107,7 @@ a.u-button-style.u-border-20 {
 .u-footer .u-image-1 {
   width: 299px;
   height: 149px;
-  margin: 22px auto 0;
+  margin: 23px auto 0;
 }
 
 .u-footer .u-logo-image-1 {
@@ -24152,7 +24119,7 @@ a.u-button-style.u-border-20 {
   transform-origin: left center 0px;
   height: 1px;
   width: 1140px;
-  margin: 23px 0 0;
+  margin: 22px 0 0;
 }
 
 .u-footer .u-layout-wrap-1 {
